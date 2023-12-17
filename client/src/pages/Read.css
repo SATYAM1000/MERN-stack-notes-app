@@ -1,0 +1,29 @@
+.read-folder{
+    width: 100%;
+    min-height: 100vh;
+    background: #f6f8fa;
+    display: flex;
+    flex-direction: column;
+    padding: 7.5rem 1rem  1rem 14.5rem;
+    gap: 1rem;
+}
+
+.read-folder h2{
+    font-size: 2rem;
+    letter-spacing: 0.5px;
+    font-weight: 600;
+    color: #253d7a;
+    padding: 0rem 1rem;
+}
+
+.notes-holder{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    flex-wrap: wrap;
+    overflow: hidden;
+    background: transparent;
+    padding:0.5rem 1rem;
+}
